@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "760171749730",
+    "project_id": "babble-chat-app-c117c",
+    "storage_bucket": "babble-chat-app-c117c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760171749730:android:0081a2426717766c988c3b",
+        "android_client_info": {
+          "package_name": "com.babbleapp.babbleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760171749730-2jsh6tnup36oe0sqcjqnos04diinjte3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.babbleapp.babbleapp",
+            "certificate_hash": "2f61fbcb8c2ca491aabb9224b5a014d89bb610fa"
+          }
+        },
+        {
+          "client_id": "760171749730-s8vsjn4cgjp38e7d33pv3rbrc7p8o6h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHLG5KRuS-gUFEM7e0BWmKSoqoOn0yzPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760171749730-s8vsjn4cgjp38e7d33pv3rbrc7p8o6h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
